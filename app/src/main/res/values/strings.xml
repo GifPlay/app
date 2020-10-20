@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="btnLlamar">Llamar</string>
+    <string name="btnWhats">WhatsApp</string>
+    <string name="btnSendImage">Enviar Imagen</string>
+</resources>
